@@ -1,6 +1,7 @@
-# Load-Balancer
-# Copyright 2021 @Profeanu Ioana
-# README file
+ Load-Balancer
+ Copyright 2021 @Profeanu Ioana
+ 
+ README file
 -------------------------------------------------------------------------------
 * Server implementation *
    ~ Data structures used: 
